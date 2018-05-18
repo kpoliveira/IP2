@@ -5,6 +5,7 @@
   -docum.txt
   
   -docdois.txt
+  
 
 2. Executar o programa;
 3. Informar os diretórios dos documentos;
@@ -15,4 +16,7 @@
 O conteudo dos documentos pode ser alterado.
 (EXEMPLO DE DIRETORIO E DE COMO INFORMAR AO PROGRAMA)
 Diretório: D:\
-Como informar: d:\docum.txt       d:\docdois.txt
+Como informar:
+
+d:\docum.txt
+d:\docdois.txt
