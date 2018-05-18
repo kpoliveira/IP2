@@ -1,6 +1,4 @@
 # IP2
-Entrega de projetos IP2
-
 # COMO EXECUTAR
 1.Colocar os seguintes documentos em um diretório de fácil acesso:
   -docum.txt
