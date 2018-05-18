@@ -15,8 +15,11 @@
 
 O conteudo dos documentos pode ser alterado.
 (EXEMPLO DE DIRETORIO E DE COMO INFORMAR AO PROGRAMA)
+
 Diretório: D:\
+
 Como informar:
 
 d:\docum.txt
+
 d:\docdois.txt
