@@ -1,7 +1,9 @@
 # IP2
 # COMO EXECUTAR
 1.Colocar os seguintes documentos em um diretório de fácil acesso:
+
   -docum.txt
+  
   -docdois.txt
 
 2. Executar o programa;
